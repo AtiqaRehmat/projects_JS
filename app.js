@@ -345,4 +345,448 @@
 
 //                 Ch # 5 MATH EXPRESSIONS  TASK 13
 
-var favoritesnack=
+//var snack=("choclate chip");
+//var age=("15");
+//var maxAge=("65");
+//var perDaySnack=("3");
+//var total;
+//total=(maxAge-age)*3;
+//document.write("<h1>The Lifetime Supply Calculator:</h1>");
+//document.write("<h3>favorite snack : "+snack+"</h3>");
+//document.write("<h3>current age : "+age+"</h3>");
+//document.write("<h3> estimated  max age : "+maxAge+"</h3>");
+//document.write("<h3> amount of snack per day : "+perDaySnack+"</h3>");
+//document.write("<h3> you will need  : "+perDaySnack+" "+snack+" to last until the ripe old age of " +maxAge+"</h3>");
+
+
+
+
+
+
+
+
+
+//                 Ch # 6-9 MATH EXPRESSIONS  TASK 1
+
+//var a = ("10");
+
+//document.write("<h1>RESULT</h1>");
+//document.write("<h2>The value of a = "+a+"</h2>");
+//document.write("<h2>_________________________</h2>");
+//document.write("<h2>The value of ++a = "+(++a)+"</h2>");
+//document.write("<h2>Now the value of a = "+a+"</h2><br><br>");
+//document.write("<h2>The value of a++ = "+(a++)+"</h2>");
+//document.write("<h2>The value of a = "+a+"</h2><br><br>");
+//document.write("<h2>The value of --a = "+(--a)+"</h2>");
+//document.write("<h2>The value of a = "+a+"</h2><br><br>");
+//document.write("<h2>The value of a-- = "+(a--)+"</h2>");
+//document.write("<h2>The value of a = "+a+"</h2><br><br>");
+
+
+
+
+
+//                 Ch # 6-9 MATH EXPRESSIONS  TASK 2
+
+//var a = 2, b = 1;
+//var result = --a - --b + ++b + b--;
+//document.write("a is = "+a+"<br>");
+//document.write("b is = "+b+"<br>");
+//document.write("Result is = "+result);
+
+
+
+
+
+//                 Ch # 6-9 MATH EXPRESSIONS  TASK 3
+
+//var name = prompt("What is your name");
+//alert(name);
+
+
+
+//                 Ch # 6-9 MATH EXPRESSIONS  TASK 5
+
+//var num = prompt("Enter table number");
+//var num1=5;
+//for(var i=1; i<=10; i++)
+//{
+//document.write(num+" X "+i+" = "+(num*i)+"<br><br>");
+//}
+
+
+ // for(var j=1; j<=10; j++)
+//{
+//document.write(num1+" X "+j+" = "+(num1*j)+"<br><br>");
+//}
+
+
+
+
+
+
+
+//                 Ch # 6-9 MATH EXPRESSIONS  TASK 6
+
+//var eng=54;
+//var urdu=48;
+//var math=54;
+//var totalMarks=(eng+urdu+math);
+//var perc=(totalMarks/300)*100;
+//document.write("<strong>|  SUBJECT  |  TOTAL MARKS  |  OBTAINED MARKS  |  PERCENTAGE  |</strong>  ");
+//document.write("<br><strong>--------------------------------------------------------------------------------------------</strong>  ");
+//document.write("<br><br>|  Engl  |  100  |"+"  "+eng+"  |  54%  |");
+//document.write("<br><br>|  Urdu  |  100  |"+"  "+urdu+"  |  48%  |");
+//document.write("<br><br>|  Math  |  100  |"+"  "+math+"  |  54%  |");
+//document.write("<br><br>|  Total  |  300  |"+" | "+totalMarks+"  |  "+perc + "%  |");
+
+
+
+
+
+//                 Ch # 9-11 USER INPUT & CONDITIONAL STATEMENT   TASK 1
+
+//var city=prompt("Enter city name");
+//if (city === 'karachi')
+//{
+ // alert("Wellcome to city of lights");
+//}
+
+
+
+
+//                 Ch # 9-11 USER INPUT & CONDITIONAL STATEMENT   TASK 2
+
+//var gender=prompt("enter your gender");
+//if(gender=== 'male')
+//{
+//alert("Good morning sir");
+
+//}
+//else if(gender=== 'female')
+//{
+ // alert("Good morning mam");
+//}
+//else
+//{
+//alert("enter right gender");
+//}
+
+
+
+
+//                 Ch # 9-11 USER INPUT & CONDITIONAL STATEMENT   TASK 3
+
+//document.write("<table border=1px align=center bgcolor=skyblue><tr><th width=200px>SIGNAL COLOR</th><th width=200px>MASSAGE</th></tr></table>");
+//document.write("<table border=1px align=center ><tr><td width=200px align=center>Red</td><td width=200px align=center>Must stop</td></tr></table>");
+//document.write("<table border=1px align=center bgcolor=skyblue><tr><td width=200px align=center>Yellow</td><td width=200px align=center>Ready to move</td></tr></table>");
+//document.write("<table border=1px align=center ><tr><td width=200px align=center>Green</td><td width=200px align=center>Move now</td></tr></table>");
+
+
+
+
+
+
+//                 Ch # 9-11 USER INPUT & CONDITIONAL STATEMENT   TASK 4
+
+//var fuel = prompt("how much remaining fuel in your car ");
+//if(fuel < '0.25')
+//{
+//alert("Please refill the fuel in your car");
+//}
+//else{
+//alert("fuel is full");
+//}
+
+
+
+//                 Ch # 9-11 USER INPUT & CONDITIONAL STATEMENT   TASK 5
+
+//        a
+
+//var a = 4;
+//if (++a === 5){
+//alert("given condition for variable a is true");
+//}
+
+
+//        b
+
+//var b = 82;
+//if (b++ === 83){
+//alert("given condition for variable b is true");
+//}
+
+//        c
+
+ //var c = 12;
+//if (c++ === 13){
+//alert("condition 1 is true");
+//}
+//if (c === 13){
+//alert("condition 2 is true");
+//}
+//if (++c < 14){
+//alert("condition 3 is true");
+//}
+//if(c === 14){
+//alert("condition 4 is true");
+//}
+
+//        d
+
+//var materialCost = 20000;
+//var laborCost = 2000;
+//var totalCost = materialCost + laborCost;
+//if (totalCost === laborCost + materialCost){
+//alert("The cost equals");
+//}
+
+//        e
+
+ //if (true){
+ // alert("True");
+  //}
+  //if (false){
+   // alert("False");
+   // }
+  
+  //        f
+
+  //if("car" < "cat"){
+   // alert("car is smaller than cat");
+   // }
+  
+
+
+
+
+
+
+//                 Ch # 9-11 USER INPUT & CONDITIONAL STATEMENT   TASK 6
+
+//document.write("<h1 align=center><u>MARKSHEET<u></h1>")
+//document.write("<h2 align=center><u>Total marks = 300<u></h2>")
+//var eng = +prompt("Enter english marks");
+//var urdu = +prompt("Enter urdu marks");
+//var math = +prompt("Enter math marks");
+//var obt;
+//var total=300;
+//obt=(eng+urdu+math);
+//document.write("<h2 align=center><u>Obtained marks = "+obt+"<u></h2>")
+//var per;
+//per = (obt/total)*100;
+//document.write("<h2 align=center><u>Percentage = "+per+"%<u></h2>");
+//if (per >= '80' )
+//{
+//document.write("<h2 align=center><u>Grade = A-1 <u></h2>");
+//document.write("<h2 align=center><u>Remarks = Excellent <u></h2>");
+//}
+//else if (per >= '70' )
+//{
+//document.write("<h2 align=center><u>Grade = A <u></h2>");
+//document.write("<h2 align=center><u>Remarks = Good <u></h2>");
+//}
+//else if (per >= '60' )
+//{
+//document.write("<h2 align=center><u>Grade = B <u></h2>");
+//document.write("<h2 align=center><u>Remarks = You need to improve <u></h2>");
+//}
+//else if (per < '60' )
+//{
+//document.write("<h2 align=center><u>Grade = Fail <u></h2>");
+//document.write("<h2 align=center><u>Remarks = Sorry <u></h2>");
+//}
+
+
+
+
+
+//                 Ch # 9-11 USER INPUT & CONDITIONAL STATEMENT   TASK 7
+
+//var num= +prompt("write any number ");
+
+//if(num == '5')
+//{
+ // alert("“Bingo! Correct answer");
+//}
+
+
+//else  (num > 5)
+//{
+ // alert("“Close enough to the correct answer");
+//}
+
+//                 Ch # 9-11 USER INPUT & CONDITIONAL STATEMENT   TASK 8
+
+//var num = +prompt("Enter any number ");
+//var result;
+//result=(num%3);
+
+//if (result === 0)
+//{
+//alert("divisible by 3");
+//}
+//else
+//{
+//alert(num+" is not divisible by 3");
+//}
+
+
+//                 Ch # 9-11 USER INPUT & CONDITIONAL STATEMENT   TASK 9
+
+//var num = +prompt("Enter any number ");
+
+
+//if (num%2 === 1)
+//{
+//alert(num+" is Odd number");
+//}
+//else 
+//{
+//alert(num+" is even number");
+//}
+
+//                 Ch # 9-11 USER INPUT & CONDITIONAL STATEMENT   TASK 10
+
+//var temp = prompt("enter temperature");
+//if(temp >  40)
+//{
+  //alert("It is too hot outside");
+//}
+
+//else if(temp >  30)
+//{
+ // alert("The Weather today is Normal ");
+//}
+
+//else if(temp >  20)
+//{
+ // alert("Today’s Weather is cool. ");
+//}
+
+//else if(temp >  10)
+//{
+ // alert("OMG! Today’s weather is so Cool. ");
+//}
+
+//                 Ch # 9-11 USER INPUT & CONDITIONAL STATEMENT   TASK 11
+
+//var num1= +prompt("enter first number ");
+//var num2= +prompt("enter second number ");
+//var op= prompt("enter operation ");
+//if(op === '+')
+//{
+ // alert(num1+" + "+num2+" = "+(num1+num2));
+//}
+//else if(op === '-')
+//{
+ // alert(num1+" - "+num2+" = "+(num1-num2));
+//}
+//else if(op === '*')
+//{
+//  alert(num1+" X "+num2+" = "+(num1*num2));
+//}
+//else if(op === '/')
+//{
+ // alert(num1+" / "+num2+" = "+(num1/num2));
+//}
+//else if(op === '%')
+//{
+ // alert(num1+" % "+num2+" = "+(num1%num2));
+//}
+
+
+
+
+
+
+
+//                 Ch # 12-13 IF…ELSE & ELSE IF STATEMENT,TESTING SET OF CONDITIONS    TASK 1
+
+//var alpha = prompt("Enter any one alphabet ");
+//alert(alpha.charCodeAt());
+
+
+//                 Ch # 12-13 IF…ELSE & ELSE IF STATEMENT,TESTING SET OF CONDITIONS    TASK 2
+
+//var num1 = +prompt("Enter number "); 
+//var num2 = +prompt("Enter number ");
+
+//if(num1 > num2)
+//{
+//alert(num1+" is grater value");
+//}
+
+//else if(num1 < num2)
+//{
+//alert(num2+" is grater value ");
+//}
+//else if(num1 = num2)
+//{
+//alert(num1+" is equal  to "+num2);
+//}
+
+
+//                 Ch # 12-13 IF…ELSE & ELSE IF STATEMENT,TESTING SET OF CONDITIONS    TASK 3
+
+//var num= +prompt("Enter number");
+//if(num <= 0)
+//{
+//alert(num+" is Negative number");
+//}
+
+//else if(num > 0)
+//{
+//alert(num+" is Positive number");
+//}
+
+
+
+//                 Ch # 12-13 IF…ELSE & ELSE IF STATEMENT,TESTING SET OF CONDITIONS    TASK 4
+
+//var char = prompt("Enter any one  character ");
+//if(char === 'a' || char === 'e' || char === 'i' ||  char === 'o' ||  char === 'u'   )
+//{
+//alert("Yes your character is vowel ");
+//}
+//else
+//{
+ // alert("Your character is consonant");
+//}
+
+//                 Ch # 12-13 IF…ELSE & ELSE IF STATEMENT,TESTING SET OF CONDITIONS    TASK 5
+
+//var password=("mirpurkhas");
+
+//var pas = prompt("enter your password");
+//if(pas === password)
+//{
+//alert("Correct! The password you entered matches the original password");
+//}
+//else if(pas != password)
+//{
+//alert("Incorrect password");
+//}
+//else if (pas ===  unescape ) 
+//{
+//alert(" Please enter your password");
+//}
+
+
+
+//                 Ch # 12-13 IF…ELSE & ELSE IF STATEMENT,TESTING SET OF CONDITIONS    TASK 6
+
+//var greeting=+prompt("enter time");
+//greeting=hour;
+//var hour = 13;
+//if (hour < 18) {
+//alert("Good day");
+//}
+//else
+//{
+//alert("Good evening") ;
+//}
+
+//                 Ch # 12-13 IF…ELSE & ELSE IF STATEMENT,TESTING SET OF CONDITIONS    TASK 7
+
